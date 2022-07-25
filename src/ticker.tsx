@@ -10,7 +10,7 @@ type Props = {
 }
 var stockdataarray = {};
 var stockgrapharray = {};
-const apikey = "AF3G90Y9LNTU71EX";
+const apikey = "secret";
 const minute = 1000 * 60;
 const hour = minute * 60;
 const day = hour * 24;
